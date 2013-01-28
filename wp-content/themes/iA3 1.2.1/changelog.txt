@@ -1,0 +1,23 @@
+1.2.1 - March 30th, 2011
+
+- Added administration functionality for the contact page, and Google Map generation functions.
+- Added optional including of Twitter Anywhere and backwards compatibility styles.
+- Updated CSS/HTML/JS to match the new iA3 Store templates.
+- Updated all external Javascript libraries.
+- Various CSS/HTML/JS tweaks and bug fixes, and spelling updates.
+
+1.2.0 - January 10th, 2011
+
+- Added estimated reading time function to single.php.
+- Added Japanese language mode with enhanced readability for text set in Japanese.
+- Added a new Tweets administration tab to allow easy adding and removing of Twitter accounts on tweets.php
+- Added a new Updates administration tab to allow users to check for updates to the theme from within WordPress.
+- Various CSS/HTML/JS tweaks and bug fixes, and spelling updates.
+
+1.1.1 - September 16th, 2010
+
+- Added German and Swiss German translation files.
+- Added missing internationalisation function calls.
+- Minified Javascript files.
+- Renamed archives.php to archive.php
+- Fixed category display in archive.php
